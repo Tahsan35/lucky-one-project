@@ -3,7 +3,8 @@ import React from 'react';
 const Header = () => {
     return (
         <div>
-            <h4>hello Header</h4>
+            <h1>Chosen Hut</h1>
+            <h3>choose your 4 shoes </h3>
         </div>
     );
 };
