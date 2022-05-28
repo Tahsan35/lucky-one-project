@@ -2,9 +2,9 @@ import React from 'react';
 
 const Header = () => {
     return (
-        <div>
-            <h1>Chosen Hut</h1>
-            <h3>choose your 4 shoes </h3>
+        <div className="m-2 p-2">
+            <h1 className="text-primary">Chosen Hut</h1>
+            <h4 className="text-success">Choose your Shoes</h4>
         </div>
     );
 };
