@@ -30,6 +30,10 @@
   align-items: center;
   justify-content: center;
 }
+.btn-text {
+  margin-right: 5px;
+  padding-top: 8px;
+}
 .btn-primary:hover {
   background-color: orange;
 }
